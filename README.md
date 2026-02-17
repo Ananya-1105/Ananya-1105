@@ -45,3 +45,5 @@ Computer Science student with a strong foundation in programming, web developmen
 ## 🔗 Connect with me
 - [Github](https:&#x2F;&#x2F;github.com&#x2F;Ananya-1105)
 - [Linkedin](https:&#x2F;&#x2F;www.linkedin.com&#x2F;in&#x2F;ananya-lakshmi-0133b6275)
+- [Twitter](-)
+- [Website](-)
